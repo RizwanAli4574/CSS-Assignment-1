@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(207, 248, 217);
+}
+.page1 a ,.page2 a ,.page3 a ,.page4 a{
+    text-decoration: none;
+   align-items: center;
+    color: rgb(251, 251, 251);
+    background-color: rgb(66, 65, 65);
+ letter-spacing: 1px;
+ font-family: :'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.eee{
+    text-align: center;
+    
+}
+h1.a{
+    color: blue;
+    text-align: center;
+    background-color: rgb(243, 241, 245);
+}
+
+.foods-menu a {
+    text-decoration: none;
+    background-color: rgb(249, 252, 251);
+    color: rgb(231, 31, 211);
+    
+}
+h1.br{
+    background-color: rgb(230, 195, 89);
+    text-align: center;
+    color: aliceblue;
+}
+span{
+    position: relative;
+   line-height: 12mm;
+}
+.Content{
+    padding: 10px;
+    margin: 0;
+    line-height: 0%;
+   
+ 
+
+}
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    padding-left: 2%;
+    
+  
+}
+button.buy1 {
+    background-color: yellow;
+  border-radius: 5px;
+
+}
+.Grocery-menu a{
+    text-decoration: none;
+    background-color: rgb(249, 252, 251);
+    color: rgb(231, 31, 211);
+}
+h2 a{ 
+    text-decoration: none;
+    color: rgb(24, 8, 250);
+}
+   
